@@ -1,5 +1,6 @@
 // URL da API do backend no Netlify
-const API_URL = "https://conselheirobiblico.netlify.app/.netlify/functions/api";
+const API_URL = "const API_URL = "https://conselheirobiblico.netlify.app/.netlify/functions/api";
+";
 
 // Função para buscar conselho na API
 async function pedirConselho() {
